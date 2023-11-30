@@ -13,4 +13,4 @@ class UiManager {
     }
 }
 
-export const uiManager = new UiManager() // this is a test
+export const uiManager = new UiManager() // just making sure
